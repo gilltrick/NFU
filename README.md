@@ -1,5 +1,5 @@
 # NFU
-Networking for Unity
+Networking for Unity (Version 0.2)
 
 How does it work?
 
